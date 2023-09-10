@@ -1,6 +1,5 @@
 # University Database Example
-This database model created for the Database Management course project of Ege University Department of Computer Engineering.  
-These project instructions had various data requirements and integrity challenges and it aimed to gain followings:  
+This database model created for the Database Management course project of Ege University Department of Computer Engineering. Project instructions had various data requirements and integrity challenges and it aimed to gain followings:  
 
 - Relational Data Model
 - Enhanced ER Modeling
